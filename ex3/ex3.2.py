@@ -13,5 +13,3 @@ def do_four(f, v):
     do_twice(f, v)
     do_twice(f, v)
 
-
-
