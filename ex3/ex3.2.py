@@ -12,4 +12,3 @@ def do_four(f, v):
     """Takes a function object and a value and calls the function four times, passing the value as a parameter."""
     do_twice(f, v)
     do_twice(f, v)
-

@@ -6,4 +6,3 @@ def right_justify(s):
         result += ' '
     result = result + s
     print(result)
-
